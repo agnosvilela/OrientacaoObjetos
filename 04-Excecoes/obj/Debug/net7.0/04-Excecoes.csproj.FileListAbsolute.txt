@@ -1,0 +1,15 @@
+C:\Users\agnos\source\repos\OrientacaoObjetos\04-Excecoes\bin\Debug\net7.0\04-Excecoes.exe
+C:\Users\agnos\source\repos\OrientacaoObjetos\04-Excecoes\bin\Debug\net7.0\04-Excecoes.deps.json
+C:\Users\agnos\source\repos\OrientacaoObjetos\04-Excecoes\bin\Debug\net7.0\04-Excecoes.runtimeconfig.json
+C:\Users\agnos\source\repos\OrientacaoObjetos\04-Excecoes\bin\Debug\net7.0\04-Excecoes.dll
+C:\Users\agnos\source\repos\OrientacaoObjetos\04-Excecoes\bin\Debug\net7.0\04-Excecoes.pdb
+C:\Users\agnos\source\repos\OrientacaoObjetos\04-Excecoes\obj\Debug\net7.0\04-Excecoes.csproj.AssemblyReference.cache
+C:\Users\agnos\source\repos\OrientacaoObjetos\04-Excecoes\obj\Debug\net7.0\04-Excecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agnos\source\repos\OrientacaoObjetos\04-Excecoes\obj\Debug\net7.0\04-Excecoes.AssemblyInfoInputs.cache
+C:\Users\agnos\source\repos\OrientacaoObjetos\04-Excecoes\obj\Debug\net7.0\04-Excecoes.AssemblyInfo.cs
+C:\Users\agnos\source\repos\OrientacaoObjetos\04-Excecoes\obj\Debug\net7.0\04-Excecoes.csproj.CoreCompileInputs.cache
+C:\Users\agnos\source\repos\OrientacaoObjetos\04-Excecoes\obj\Debug\net7.0\04-Excecoes.dll
+C:\Users\agnos\source\repos\OrientacaoObjetos\04-Excecoes\obj\Debug\net7.0\refint\04-Excecoes.dll
+C:\Users\agnos\source\repos\OrientacaoObjetos\04-Excecoes\obj\Debug\net7.0\04-Excecoes.pdb
+C:\Users\agnos\source\repos\OrientacaoObjetos\04-Excecoes\obj\Debug\net7.0\04-Excecoes.genruntimeconfig.cache
+C:\Users\agnos\source\repos\OrientacaoObjetos\04-Excecoes\obj\Debug\net7.0\ref\04-Excecoes.dll

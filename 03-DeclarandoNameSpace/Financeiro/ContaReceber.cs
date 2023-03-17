@@ -1,0 +1,8 @@
+namespace Financeiro
+{
+    class ContaReceber
+    {
+
+    }
+
+}

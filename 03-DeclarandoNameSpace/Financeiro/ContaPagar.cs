@@ -1,0 +1,14 @@
+namespace Financeiro
+{
+
+    class ContaPagar
+    {
+
+    }
+
+
+}
+
+
+
+

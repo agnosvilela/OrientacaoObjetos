@@ -1,0 +1,15 @@
+C:\Users\agnos\source\repos\OrientacaoObjetos\02-TrabalhandoComMetodos\bin\Debug\net7.0\02-TrabalhandoComMetodos.exe
+C:\Users\agnos\source\repos\OrientacaoObjetos\02-TrabalhandoComMetodos\bin\Debug\net7.0\02-TrabalhandoComMetodos.deps.json
+C:\Users\agnos\source\repos\OrientacaoObjetos\02-TrabalhandoComMetodos\bin\Debug\net7.0\02-TrabalhandoComMetodos.runtimeconfig.json
+C:\Users\agnos\source\repos\OrientacaoObjetos\02-TrabalhandoComMetodos\bin\Debug\net7.0\02-TrabalhandoComMetodos.dll
+C:\Users\agnos\source\repos\OrientacaoObjetos\02-TrabalhandoComMetodos\bin\Debug\net7.0\02-TrabalhandoComMetodos.pdb
+C:\Users\agnos\source\repos\OrientacaoObjetos\02-TrabalhandoComMetodos\obj\Debug\net7.0\02-TrabalhandoComMetodos.csproj.AssemblyReference.cache
+C:\Users\agnos\source\repos\OrientacaoObjetos\02-TrabalhandoComMetodos\obj\Debug\net7.0\02-TrabalhandoComMetodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agnos\source\repos\OrientacaoObjetos\02-TrabalhandoComMetodos\obj\Debug\net7.0\02-TrabalhandoComMetodos.AssemblyInfoInputs.cache
+C:\Users\agnos\source\repos\OrientacaoObjetos\02-TrabalhandoComMetodos\obj\Debug\net7.0\02-TrabalhandoComMetodos.AssemblyInfo.cs
+C:\Users\agnos\source\repos\OrientacaoObjetos\02-TrabalhandoComMetodos\obj\Debug\net7.0\02-TrabalhandoComMetodos.csproj.CoreCompileInputs.cache
+C:\Users\agnos\source\repos\OrientacaoObjetos\02-TrabalhandoComMetodos\obj\Debug\net7.0\02-TrabalhandoComMetodos.dll
+C:\Users\agnos\source\repos\OrientacaoObjetos\02-TrabalhandoComMetodos\obj\Debug\net7.0\refint\02-TrabalhandoComMetodos.dll
+C:\Users\agnos\source\repos\OrientacaoObjetos\02-TrabalhandoComMetodos\obj\Debug\net7.0\02-TrabalhandoComMetodos.pdb
+C:\Users\agnos\source\repos\OrientacaoObjetos\02-TrabalhandoComMetodos\obj\Debug\net7.0\02-TrabalhandoComMetodos.genruntimeconfig.cache
+C:\Users\agnos\source\repos\OrientacaoObjetos\02-TrabalhandoComMetodos\obj\Debug\net7.0\ref\02-TrabalhandoComMetodos.dll
