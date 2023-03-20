@@ -1,0 +1,15 @@
+C:\Users\agnos\OrientacaoObjetos\05-AprendendoMaisOrientacaoObjetos\bin\Debug\net7.0\05-AprendendoMaisOrientacaoObjetos.exe
+C:\Users\agnos\OrientacaoObjetos\05-AprendendoMaisOrientacaoObjetos\bin\Debug\net7.0\05-AprendendoMaisOrientacaoObjetos.deps.json
+C:\Users\agnos\OrientacaoObjetos\05-AprendendoMaisOrientacaoObjetos\bin\Debug\net7.0\05-AprendendoMaisOrientacaoObjetos.runtimeconfig.json
+C:\Users\agnos\OrientacaoObjetos\05-AprendendoMaisOrientacaoObjetos\bin\Debug\net7.0\05-AprendendoMaisOrientacaoObjetos.dll
+C:\Users\agnos\OrientacaoObjetos\05-AprendendoMaisOrientacaoObjetos\bin\Debug\net7.0\05-AprendendoMaisOrientacaoObjetos.pdb
+C:\Users\agnos\OrientacaoObjetos\05-AprendendoMaisOrientacaoObjetos\obj\Debug\net7.0\05-AprendendoMaisOrientacaoObjetos.csproj.AssemblyReference.cache
+C:\Users\agnos\OrientacaoObjetos\05-AprendendoMaisOrientacaoObjetos\obj\Debug\net7.0\05-AprendendoMaisOrientacaoObjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agnos\OrientacaoObjetos\05-AprendendoMaisOrientacaoObjetos\obj\Debug\net7.0\05-AprendendoMaisOrientacaoObjetos.AssemblyInfoInputs.cache
+C:\Users\agnos\OrientacaoObjetos\05-AprendendoMaisOrientacaoObjetos\obj\Debug\net7.0\05-AprendendoMaisOrientacaoObjetos.AssemblyInfo.cs
+C:\Users\agnos\OrientacaoObjetos\05-AprendendoMaisOrientacaoObjetos\obj\Debug\net7.0\05-AprendendoMaisOrientacaoObjetos.csproj.CoreCompileInputs.cache
+C:\Users\agnos\OrientacaoObjetos\05-AprendendoMaisOrientacaoObjetos\obj\Debug\net7.0\05-AprendendoMaisOrientacaoObjetos.dll
+C:\Users\agnos\OrientacaoObjetos\05-AprendendoMaisOrientacaoObjetos\obj\Debug\net7.0\refint\05-AprendendoMaisOrientacaoObjetos.dll
+C:\Users\agnos\OrientacaoObjetos\05-AprendendoMaisOrientacaoObjetos\obj\Debug\net7.0\05-AprendendoMaisOrientacaoObjetos.pdb
+C:\Users\agnos\OrientacaoObjetos\05-AprendendoMaisOrientacaoObjetos\obj\Debug\net7.0\05-AprendendoMaisOrientacaoObjetos.genruntimeconfig.cache
+C:\Users\agnos\OrientacaoObjetos\05-AprendendoMaisOrientacaoObjetos\obj\Debug\net7.0\ref\05-AprendendoMaisOrientacaoObjetos.dll
