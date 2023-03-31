@@ -1,0 +1,15 @@
+C:\Users\agnos\OrientacaoObjetos\07-AdionandoMetodosClasse\obj\Debug\net7.0\07-AdionandoMetodosClasse.csproj.AssemblyReference.cache
+C:\Users\agnos\OrientacaoObjetos\07-AdionandoMetodosClasse\obj\Debug\net7.0\07-AdionandoMetodosClasse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agnos\OrientacaoObjetos\07-AdionandoMetodosClasse\obj\Debug\net7.0\07-AdionandoMetodosClasse.AssemblyInfoInputs.cache
+C:\Users\agnos\OrientacaoObjetos\07-AdionandoMetodosClasse\obj\Debug\net7.0\07-AdionandoMetodosClasse.AssemblyInfo.cs
+C:\Users\agnos\OrientacaoObjetos\07-AdionandoMetodosClasse\obj\Debug\net7.0\07-AdionandoMetodosClasse.csproj.CoreCompileInputs.cache
+C:\Users\agnos\OrientacaoObjetos\07-AdionandoMetodosClasse\bin\Debug\net7.0\07-AdionandoMetodosClasse.exe
+C:\Users\agnos\OrientacaoObjetos\07-AdionandoMetodosClasse\bin\Debug\net7.0\07-AdionandoMetodosClasse.deps.json
+C:\Users\agnos\OrientacaoObjetos\07-AdionandoMetodosClasse\bin\Debug\net7.0\07-AdionandoMetodosClasse.runtimeconfig.json
+C:\Users\agnos\OrientacaoObjetos\07-AdionandoMetodosClasse\bin\Debug\net7.0\07-AdionandoMetodosClasse.dll
+C:\Users\agnos\OrientacaoObjetos\07-AdionandoMetodosClasse\bin\Debug\net7.0\07-AdionandoMetodosClasse.pdb
+C:\Users\agnos\OrientacaoObjetos\07-AdionandoMetodosClasse\obj\Debug\net7.0\07-AdionandoMetodosClasse.dll
+C:\Users\agnos\OrientacaoObjetos\07-AdionandoMetodosClasse\obj\Debug\net7.0\refint\07-AdionandoMetodosClasse.dll
+C:\Users\agnos\OrientacaoObjetos\07-AdionandoMetodosClasse\obj\Debug\net7.0\07-AdionandoMetodosClasse.pdb
+C:\Users\agnos\OrientacaoObjetos\07-AdionandoMetodosClasse\obj\Debug\net7.0\07-AdionandoMetodosClasse.genruntimeconfig.cache
+C:\Users\agnos\OrientacaoObjetos\07-AdionandoMetodosClasse\obj\Debug\net7.0\ref\07-AdionandoMetodosClasse.dll
