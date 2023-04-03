@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\agnos\\OrientacaoObjetos\\07-AdionandoMetodosClasse\\07-AdionandoMetodosClasse.csproj",
-      "projectName": "07-AdionandoMetodosClasse",
-      "projectPath": "C:\\Users\\agnos\\OrientacaoObjetos\\07-AdionandoMetodosClasse\\07-AdionandoMetodosClasse.csproj",
+      "projectUniqueName": "C:\\Users\\agnos\\OrientacaoObjetos\\07-AdionandoMetodosClasse\\07-AdiconandoMetodosClasse.csproj",
+      "projectName": "07-AdiconandoMetodosClasse",
+      "projectPath": "C:\\Users\\agnos\\OrientacaoObjetos\\07-AdionandoMetodosClasse\\07-AdiconandoMetodosClasse.csproj",
       "packagesPath": "C:\\Users\\agnos\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\agnos\\OrientacaoObjetos\\07-AdionandoMetodosClasse\\obj\\",
       "projectStyle": "PackageReference",
