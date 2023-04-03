@@ -10,7 +10,11 @@ namespace AdicionandoMetodosClasse
             conta.Numero = "002";
             conta.DataAbertura = DateTime.Today;
             conta.Saldo = 100;
+            conta.ExibirExtrato();
 
+            conta.Depositar(500);
+            conta.ExibirExtrato();
+            conta.Sacar(25);
             conta.ExibirExtrato();
         }
 
