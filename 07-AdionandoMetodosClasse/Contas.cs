@@ -13,7 +13,7 @@ namespace Contas
         public void ExibirExtrato()
         {
             Console.WriteLine($" Conta nº:            {Numero} ");
-            Console.WriteLine($"Data de Abertura:     {DataAbertura.ToString("dd/MM/YYYY")}");
+            Console.WriteLine($"Data de Abertura:     {DataAbertura.ToString("dd/MM/yyyy")}");
             Console.WriteLine($"  Saldo:              {Saldo.ToString("C")} ");
             Console.WriteLine("--------------------------------------");
         }
@@ -27,6 +27,15 @@ namespace Contas
         public void Sacar(decimal valor)
         {
             Saldo -= valor;
+        }
+
+        // metodos com retorno
+        public string ExibirExtrato1()
+        {
+            return $" Conta nº:   {Numero}{Environment.NewLine} " +
+            $"Data de Abertura:   {DataAbertura.ToString("dd/MM/yyyy")}{Environment.NewLine}" +
+            $"  Saldo:            {Saldo.ToString("C")}{Environment.NewLine} " +
+            "--------------------------------------";
         }
 
     }
