@@ -37,6 +37,19 @@ namespace Contas
             $"  Saldo:            {Saldo.ToString("C")}{Environment.NewLine} " +
             "--------------------------------------";
         }
+        /*sobrecarga de métodos- mesmo nome, porém, com assinaturas diferentes.*/
+        public void RealizarEmprestimo(decimal valor)
+        {
+            Saldo += valor;
+            Console.WriteLine($"O valor {valor} será creditado e será debitado dentro de 30 dias");
+        }
+        // sobrecarga de metodos
+        public void RealizarEmprestimo(decimal valor, int parcelas)
+        {
+            Saldo += valor;
+            Console.WriteLine($" o valor {valor} foi creditado e será debitado em {parcelas} vezes.");
+        }
+
 
     }
 }

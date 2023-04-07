@@ -10,12 +10,13 @@ namespace AdicionandoMetodosClasse
             conta.Numero = "002";
             conta.DataAbertura = DateTime.Today;
             conta.Saldo = 100;
+            conta.RealizarEmprestimo(200, 10);
+            Console.WriteLine(conta.ExibirExtrato1());
+            conta.Depositar(500);
             Console.WriteLine(conta.ExibirExtrato1());
 
-            conta.Depositar(200);
-            Console.WriteLine(conta.ExibirExtrato1());
-            conta.Sacar(25);
-            Console.WriteLine(conta.ExibirExtrato1());
+
+
         }
 
     }
