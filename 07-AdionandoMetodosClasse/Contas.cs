@@ -9,6 +9,31 @@ namespace Contas
         public DateTime DataAbertura;
         public decimal Saldo;
 
+        // adicionando o método construtor
+        public Conta()
+        {
+            Numero = DateTime.Now.ToString("yyyyMMddhhmmss");
+            DataAbertura = DateTime.Now;
+            Saldo = 0;
+
+            Console.WriteLine("Conta Ceriada");
+        }
+
+
+        // criando o metodo construtos com sobrecarga
+
+        public Conta(string numero, DateTime dataAbertura, decimal saldo)
+        {
+            Numero = numero;
+            DataAbertura = dataAbertura;
+            Saldo = saldo;
+
+        }
+
+
+
+
+
         // adicionando métodos a classe conta sem parametros.
 
         public void ExibirExtrato()
@@ -51,7 +76,7 @@ namespace Contas
             Console.WriteLine($" o valor {valor} foi creditado e será debitado em {parcelas} vezes.");
         }
 
-        
+
         // método estático
         public static double CalcularRendimento(double capital, int meses)
         {
