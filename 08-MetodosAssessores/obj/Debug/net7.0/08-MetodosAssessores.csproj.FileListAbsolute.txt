@@ -1,0 +1,15 @@
+C:\Users\agnos\OrientacaoObjetos\08-MetodosAssessores\bin\Debug\net7.0\08-MetodosAssessores.exe
+C:\Users\agnos\OrientacaoObjetos\08-MetodosAssessores\bin\Debug\net7.0\08-MetodosAssessores.deps.json
+C:\Users\agnos\OrientacaoObjetos\08-MetodosAssessores\bin\Debug\net7.0\08-MetodosAssessores.runtimeconfig.json
+C:\Users\agnos\OrientacaoObjetos\08-MetodosAssessores\bin\Debug\net7.0\08-MetodosAssessores.dll
+C:\Users\agnos\OrientacaoObjetos\08-MetodosAssessores\bin\Debug\net7.0\08-MetodosAssessores.pdb
+C:\Users\agnos\OrientacaoObjetos\08-MetodosAssessores\obj\Debug\net7.0\08-MetodosAssessores.csproj.AssemblyReference.cache
+C:\Users\agnos\OrientacaoObjetos\08-MetodosAssessores\obj\Debug\net7.0\08-MetodosAssessores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agnos\OrientacaoObjetos\08-MetodosAssessores\obj\Debug\net7.0\08-MetodosAssessores.AssemblyInfoInputs.cache
+C:\Users\agnos\OrientacaoObjetos\08-MetodosAssessores\obj\Debug\net7.0\08-MetodosAssessores.AssemblyInfo.cs
+C:\Users\agnos\OrientacaoObjetos\08-MetodosAssessores\obj\Debug\net7.0\08-MetodosAssessores.csproj.CoreCompileInputs.cache
+C:\Users\agnos\OrientacaoObjetos\08-MetodosAssessores\obj\Debug\net7.0\08-MetodosAssessores.dll
+C:\Users\agnos\OrientacaoObjetos\08-MetodosAssessores\obj\Debug\net7.0\refint\08-MetodosAssessores.dll
+C:\Users\agnos\OrientacaoObjetos\08-MetodosAssessores\obj\Debug\net7.0\08-MetodosAssessores.pdb
+C:\Users\agnos\OrientacaoObjetos\08-MetodosAssessores\obj\Debug\net7.0\08-MetodosAssessores.genruntimeconfig.cache
+C:\Users\agnos\OrientacaoObjetos\08-MetodosAssessores\obj\Debug\net7.0\ref\08-MetodosAssessores.dll
