@@ -3,13 +3,27 @@ namespace RH
     public class Funcionario
     {
         public string name;
-        public string CPF;
+        private string CPF;
 
-        public Funcionario()
+        public Funcionario(string nome, string cpf)
         {
-            Console.WriteLine("Metodo construtor inicializado");
+            nome = nome;
+            CPF = cpf;
+        }
+
+
+        // usamos o conceito de get para retornar informaçoes
+        public string GetCPF()
+        {
+            return CPF;
+        }
+        // metodo para escrever/ modificar a informação 
+        public void SetCPF(string cpf)
+        {
+            if (cpf.Length == 0)
+                return;
+            CPF = cpf;
         }
     }
-
 
 }

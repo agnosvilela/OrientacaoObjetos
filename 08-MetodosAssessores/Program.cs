@@ -1,10 +1,14 @@
 ﻿using RH;
 
 
-var funcionario1 = new Funcionario();
-funcionario1.name = "Agnos Vilela";
-funcionario1.CPF = "055.066.077.00";
+var funcionario = new Funcionario1("Agnos Vilela", "001.002.003.85");
 
-Console.WriteLine(funcionario1.name);
-Console.WriteLine(funcionario1.CPF);
- 
+// aqui eu nao tenho acesso ao cpf, mas posso ler.
+funcionario.CPF = "005.006.008.00";
+Console.WriteLine(funcionario.CPF);
+
+
+
+/*Get e Set são a forma mais comum de implementar o 
+encapsulamento e é por meio destes métodos que controlamos os detalhes 
+internos da classe.*/
