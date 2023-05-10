@@ -1,0 +1,15 @@
+C:\Users\agnos\OrientacaoObjetos\09-Heranca\obj\Debug\net7.0\09-Heranca.csproj.AssemblyReference.cache
+C:\Users\agnos\OrientacaoObjetos\09-Heranca\obj\Debug\net7.0\09-Heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agnos\OrientacaoObjetos\09-Heranca\obj\Debug\net7.0\09-Heranca.AssemblyInfoInputs.cache
+C:\Users\agnos\OrientacaoObjetos\09-Heranca\obj\Debug\net7.0\09-Heranca.AssemblyInfo.cs
+C:\Users\agnos\OrientacaoObjetos\09-Heranca\obj\Debug\net7.0\09-Heranca.csproj.CoreCompileInputs.cache
+C:\Users\agnos\OrientacaoObjetos\09-Heranca\bin\Debug\net7.0\09-Heranca.exe
+C:\Users\agnos\OrientacaoObjetos\09-Heranca\bin\Debug\net7.0\09-Heranca.deps.json
+C:\Users\agnos\OrientacaoObjetos\09-Heranca\bin\Debug\net7.0\09-Heranca.runtimeconfig.json
+C:\Users\agnos\OrientacaoObjetos\09-Heranca\bin\Debug\net7.0\09-Heranca.dll
+C:\Users\agnos\OrientacaoObjetos\09-Heranca\bin\Debug\net7.0\09-Heranca.pdb
+C:\Users\agnos\OrientacaoObjetos\09-Heranca\obj\Debug\net7.0\09-Heranca.dll
+C:\Users\agnos\OrientacaoObjetos\09-Heranca\obj\Debug\net7.0\refint\09-Heranca.dll
+C:\Users\agnos\OrientacaoObjetos\09-Heranca\obj\Debug\net7.0\09-Heranca.pdb
+C:\Users\agnos\OrientacaoObjetos\09-Heranca\obj\Debug\net7.0\09-Heranca.genruntimeconfig.cache
+C:\Users\agnos\OrientacaoObjetos\09-Heranca\obj\Debug\net7.0\ref\09-Heranca.dll
